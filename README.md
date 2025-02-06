@@ -38,11 +38,7 @@ This is a recipe website built with **Symfony 7.2** and **PHP 8.2**. The project
 
 3. Configure the environment:  
 
-   - Copy `.env` file and update database credentials  
-
-   ```sh
-   cp .env .env.local
-   ```  
+   - Open `.env` file and update database credentials  
 
 4. Create database schema:  
 
